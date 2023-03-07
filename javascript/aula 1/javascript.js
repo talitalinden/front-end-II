@@ -21,7 +21,7 @@ var altMaior = 0;
 var i = 0;
 mediaMasc = (homem/quantMasculino).toFixed(2); // para definir o uso de casas decimais
 
-for (i = 1; i<= 3; i++){     //testar array//
+for (i = 1; i<= 15; i++){     //testar array//
     sexo = prompt("Qual é o seu sexo? Feminino ou masculino?");
     altura = parseFloat(prompt("Qual é a sua altura["+i+"]?")); // parseInt converte um número inteiro. parseFloat converte string em número
     
