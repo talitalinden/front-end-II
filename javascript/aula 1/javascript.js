@@ -24,7 +24,7 @@ var altMaior = 0;
 var i = 0;
 mediaMasc = homem/quantMasculino
 
-for (i = 1; i<= 3; i++){     //testar array//
+for (i = 1; i<= 15; i++){     //testar array//
     sexo = prompt("Qual é o seu sexo? Feminino ou masculino?");
     altura = prompt("Qual é a sua altura["+i+"]?");
     
