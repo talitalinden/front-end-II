@@ -7,13 +7,10 @@ seguintes resultados:
 - a média de altura dos homens;
 - o número de mulheres */
 
-//var sexo = prompt("Qual é o seu sexo? Feminino ou masculino?");
-//var altura = parseInt(prompt("Qual é a sua altura["+i+"]?"));
 var sexo;
 var altura;
 var mulher = 0;
 var homem = 0;
-//var media = altura / 15
 var mediaMasc = 0;
 var count = 0;
 var quantFeminino = 0;
